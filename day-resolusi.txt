@@ -3,3 +3,4 @@ Day Resolusi
   2. Snake 2
   3. Monkey 3
   4. Thai Lung 4
+  5. Kai 5
